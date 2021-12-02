@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "nome": "Barbarism Begins at Home",
+      "nomeautor": "The Smiths",
+      "album": "Meat Is Murder ",
+      "ano": "1987",
+      "id": 1
+    },
+    {
+      "nome": "Hayloft",
+      "nomeautor": "Mother Mother",
+      "album": "Oh My Heart ",
+      "ano": "2008",
+      "id": 2
+    },
+    {
+      "nome": "Brutal",
+      "nomeautor": "Olivia Rodrigo",
+      "album": "Sour",
+      "ano": "2021",
+      "id": 3
+    },
+    {
+      "nome": "Maggot",
+      "nomeautor": "Slutever",
+      "album": "Almost Famous",
+      "ano": "2015",
+      "id": 14
+    },
+    {
+      "nome": "Accept Yourself",
+      "nomeautor": "The Smiths",
+      "album": "Hatful Of Hollow",
+      "ano": "1984",
+      "id": 15
+    }
+  ]
+}
